@@ -1,0 +1,7 @@
+{
+  "name": "Worley's Caves WorldPainter Plugin",
+  "version": "${project.version}",
+  "classes": [
+    "com.booleanbyte.wpplugin.worleycaves.WorleyCavesWPPlugin"
+  ]
+}
